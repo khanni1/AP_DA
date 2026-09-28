@@ -1,0 +1,8 @@
+gpt
+
+
+4. decorator
+7. urlparse()
+8. urllib.request
+10. threading.Thread()
+
