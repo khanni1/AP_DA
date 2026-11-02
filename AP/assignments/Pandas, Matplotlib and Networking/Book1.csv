@@ -1,0 +1,6 @@
+Name,Age,Score,Passed
+Alice,25.0,85.5,True
+Bob,,90.0,
+,30.0,,False
+David,22.0,78.5,True
+Eva,,92.0,
